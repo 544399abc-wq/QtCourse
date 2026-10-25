@@ -1,0 +1,9 @@
+# ninja log v6
+3	523	8146265962139930	untitled_autogen/timestamp	bbd5520127b082e
+3	523	8146265962139930	untitled_autogen/mocs_compilation.cpp	bbd5520127b082e
+3	523	8146265962139930	D:/My_work/powgrem/qt/text/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	bbd5520127b082e
+3	523	8146265962139930	D:/My_work/powgrem/qt/text/untitled/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	bbd5520127b082e
+526	1822	8146265962855050	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	7764b01aecb245ec
+533	1874	8146265962935049	CMakeFiles/untitled.dir/mainwindow.cpp.obj	e72bce3d4c1df461
+530	2138	8146265962895051	CMakeFiles/untitled.dir/main.cpp.obj	2e5a3cc9ccc8fec
+2139	2630	8146265978977854	untitled.exe	c11631f7575c2d50
