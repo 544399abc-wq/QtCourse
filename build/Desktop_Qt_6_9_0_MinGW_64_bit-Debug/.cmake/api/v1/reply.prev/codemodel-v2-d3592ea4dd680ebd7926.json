@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-95a5efc9a2d5a5b05b3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "createbook",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "createbook::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-createbook-Debug-1e11f30cad63c73646cc.json",
+					"name" : "createbook",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "createbook_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-createbook_autogen-Debug-e37be4eb92fd5c8e812d.json",
+					"name" : "createbook_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "createbook_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-createbook_autogen_timestamp_deps-Debug-9aab9b62b93f03652b5a.json",
+					"name" : "createbook_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/My_work/powgrem/qt/text/createbook/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "D:/My_work/powgrem/qt/text/createbook"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
