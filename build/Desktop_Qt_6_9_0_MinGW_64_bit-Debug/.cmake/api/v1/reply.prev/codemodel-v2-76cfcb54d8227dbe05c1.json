@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d895ba7a3d9c8d896531.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sqlwork",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlwork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlwork-Debug-d76883725bcaf2507724.json",
+					"name" : "sqlwork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlwork_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlwork_autogen-Debug-e0fcd4fcddcf7a8301fc.json",
+					"name" : "sqlwork_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlwork_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlwork_autogen_timestamp_deps-Debug-3a8f8ea21869141e0a62.json",
+					"name" : "sqlwork_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/My_work/powgrem/qt/text/sqlwork/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "D:/My_work/powgrem/qt/text/sqlwork"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
